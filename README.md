@@ -11,9 +11,11 @@
 
 ---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/kalyani-dave/)  
-[![LeetCode](https://leetcode.com/u/kalyanidave/)  
+## 🔗 Connect with me    
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyani-dave/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kalyanidave/)  
+
 
 ---
 
