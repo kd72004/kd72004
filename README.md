@@ -12,10 +12,8 @@
 ---
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-username)  
-![Profile Views](https://komarev.com/ghpvc/?username=kd72004&label=Profile%20views&color=0e75b6&style=flat)  
+[![LinkedIn](https://www.linkedin.com/in/kalyani-dave/)  
+[![LeetCode](https://leetcode.com/u/kalyanidave/)  
 
 ---
 
